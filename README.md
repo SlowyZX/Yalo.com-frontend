@@ -2,7 +2,6 @@
 Файлы сайта Yalo.netlify.app
 
 # Языки которые использовались для создания сайта:
-Typescript,
 Javascript,
 Css,
 html,
